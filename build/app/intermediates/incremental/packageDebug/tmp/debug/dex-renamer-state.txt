@@ -1,0 +1,4 @@
+#Wed Aug 16 15:07:07 ICT 2023
+base.0=/Users/thanhyenhuynhthi/Documents/TH App Mobile/TH_B3/Thuchanh3/bài 4/untitled/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
